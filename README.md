@@ -1,5 +1,6 @@
 # WarmUp-CyberInfraestructura
 Monica Andrea Abarca Martinez
+---
 <img width="326" height="338" alt="image" src="https://github.com/user-attachments/assets/8aef60d6-cb75-4232-95fe-40391b7ccb42" />
 
 # Password Validator
